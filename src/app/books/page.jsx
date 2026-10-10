@@ -1,10 +1,13 @@
 import React from 'react';
 import BookCard from '../components/BookCard';
+export const instant = false;
+
 
 const getBooks = async() => {
-    const res = await fetch ('http://localhost:5000/books')
+    const res = await fetch ('http://localhost:5000/books', 
+    )
     if(!res.ok){
-        throw new error ("Failed to fetch books")
+        throw new Error ("Failed to fetch books")
     }
     return res.json();
 }

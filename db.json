@@ -10,7 +10,7 @@
       "rating": 4.8,
       "stock": 15,
       "image": "https://placehold.co/400x300?text=iPhone+15+Pro",
-      "description": "Powerful smartphone with an advanced camera."
+      "description": "Experience outstanding performance with a powerful processor, advanced camera system, stunning display, and premium titanium design for everyday use."
     },
     {
       "id": "2",
@@ -21,7 +21,7 @@
       "rating": 4.7,
       "stock": 20,
       "image": "https://placehold.co/400x300?text=Galaxy+S24",
-      "description": "Premium Android smartphone with AI features."
+      "description": "Enjoy a premium Android experience with intelligent AI features, an impressive camera, vibrant display, and powerful performance throughout the day."
     },
     {
       "id": "3",
@@ -32,7 +32,7 @@
       "rating": 4.9,
       "stock": 10,
       "image": "https://placehold.co/400x300?text=MacBook+Air+M3",
-      "description": "Lightweight laptop with excellent performance."
+      "description": "A lightweight and powerful laptop featuring the M3 chip, excellent battery life, beautiful Retina display, and smooth performance for professional tasks."
     },
     {
       "id": "4",
@@ -43,7 +43,7 @@
       "rating": 4.8,
       "stock": 25,
       "image": "https://placehold.co/400x300?text=Sony+Headphones",
-      "description": "Wireless headphones with noise cancellation."
+      "description": "Experience immersive sound with industry-leading noise cancellation, crystal-clear audio, comfortable ear cushions, and long battery life for daily listening."
     },
     {
       "id": "5",
@@ -54,7 +54,7 @@
       "rating": 4.7,
       "stock": 30,
       "image": "https://placehold.co/400x300?text=Logitech+Mouse",
-      "description": "Ergonomic wireless mouse for productivity."
+      "description": "Boost your productivity with this ergonomic wireless mouse featuring precise tracking, customizable buttons, quiet clicks, and comfortable handling for long work sessions."
     },
     {
       "id": "6",
@@ -65,7 +65,7 @@
       "rating": 4.6,
       "stock": 12,
       "image": "https://placehold.co/400x300?text=Dell+Monitor",
-      "description": "27-inch professional monitor with sharp display."
+      "description": "A professional 27-inch monitor offering sharp visuals, excellent color accuracy, comfortable viewing angles, and reliable performance for office and creative work."
     }
   ],
   "books": [
@@ -78,18 +78,18 @@
       "rating": 4.9,
       "stock": 25,
       "image": "https://placehold.co/400x300?text=Atomic+Habits",
-      "description": "A practical guide to building good habits and breaking bad ones."
+      "description": "Discover practical strategies for building breaking harmful routines, improving daily productivity, and achieving meaningful personal growth through small changes."
     },
     {
       "id": "2",
-      "title": "The Psychology of Money",
+      "title": "The Psychology",
       "author": "Morgan Housel",
       "category": "Finance",
       "price": 16,
       "rating": 4.8,
       "stock": 20,
       "image": "https://placehold.co/400x300?text=Psychology+of+Money",
-      "description": "Explores how people think and behave with money."
+      "description": "Explore how emotions, and human behavior influence financial decisions, wealth management, saving habits, and long-term financial success."
     },
     {
       "id": "3",
@@ -100,7 +100,7 @@
       "rating": 4.7,
       "stock": 18,
       "image": "https://placehold.co/400x300?text=Deep+Work",
-      "description": "Learn how to focus deeply and improve productivity."
+      "description": "Learn powerful techniques to eliminate distractions, develop meaningful work habits, and achieve exceptional productivity in a busy digital world."
     },
     {
       "id": "4",
@@ -111,7 +111,7 @@
       "rating": 4.6,
       "stock": 30,
       "image": "https://placehold.co/400x300?text=The+Alchemist",
-      "description": "A novel about following dreams and discovering personal destiny."
+      "description": "Follow an inspiring journey of adventure, courage, and destiny as a young shepherd travels in search of his greatest dreams."
     },
     {
       "id": "5",
@@ -122,18 +122,18 @@
       "rating": 4.8,
       "stock": 12,
       "image": "https://placehold.co/400x300?text=Clean+Code",
-      "description": "Best practices for writing readable and maintainable code."
+      "description": "Master essential software development principles for writing, maintainable, and efficient code while improving programming skills and professional coding practices."
     },
     {
       "id": "6",
-      "title": "The Pragmatic Programmer",
+      "title": "The Pragmatic",
       "author": "Andrew Hunt and David Thomas",
       "category": "Programming",
       "price": 42,
       "rating": 4.9,
       "stock": 15,
       "image": "https://placehold.co/400x300?text=Pragmatic+Programmer",
-      "description": "Practical techniques for becoming a better software developer."
+      "description": "Discover practical programming techniques, professional development habits, and valuable insights to become a more effective and confident software developer."
     }
   ]
 }
